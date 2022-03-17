@@ -1,8 +1,8 @@
 title: Hello, world! I'm myWork
 description:
 permalink: ':title/'
-baseurl: "/mywork-faq" # the subpath of your site, e.g. /blog
-url: "https://github.com/napit-apps" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: /mywork-faq # the subpath of your site, e.g. /blog
+url: https://github.com/napit-apps # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings

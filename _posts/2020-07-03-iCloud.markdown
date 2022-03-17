@@ -1,0 +1,52 @@
+---
+layout: post
+title: 'iCloud Synchronisierung'
+description: # Add post description (optional)
+img: icloud.jpg
+fig-caption: # Add figcaption (optional)
+
+---
+
+Die neue iCloud-Synchronisierung ist der einfachste Weg, deine gesamte Daten an einem sicheren Ort zu speichern und automatisch an all deinen Geräten zu verwalten.
+
+### Erste Aktivierung
+Bevor es losgehen kann, stelle bitte sicher, dass du eine stabile und schnelle Internetverbindung hast.
+
+Nachdem du den Schalter "iCloud Synchronisierung" aktiviert hast, werden alle deine Daten in die iCloud geladen. Dies kann je nach Datenmenge und Internetverbindung bis zu einigen Minuten dauern.
+
+<sup>Bevor deine Daten für die iCloud vorbereitet werden, erstellt myWork eine lokale Sicherungsdatei. Auf diese kannst du bei Bedarf einfach über iTunes zugreifen. </sup>
+
+### Das zweite Gerät
+<b>Aktiviere die iCloud Synchronisierung auf deinen anderen Geräten erst wenn alle Daten initial einmal hochgeladen wurden.</b>
+
+Die Aktivierung auf deinem zweiten / dritten / … Gerät funktiniert im Prinzip genau so einfach wie auf dem ersten. Allerdings musst du hier noch entscheiden, was mit deinen bisherigen Daten auf diesen Gerät(en) geschen soll. Folgende Optionen stehen dir dabei zur Verfügung
+
+- Lokale Daten löschen - Deine lokalen Daten werden durch die in der iCloud ersetzt.
+- iCloud Daten löschen - Deine iCloud Daten werden gelöscht und mit denen auf dem Gerät überschrieben.
+- Daten zusammenführen - Dadurch behälst du ersteinmal beide Datenquellen. Allerdings entstehen eventuell Duplikate, die du anschließend manuell löschen musst.
+
+<sup>Diese Auswahl erscheint technisch bedingt nur bei der initialen Aktivierung. Sobald deine Daten einmal migriert wurden, übernimmt iOS die Datenverwaltung.</sup>
+
+### Stoppuhr Funktion
+Selbstverständlich funktioniert auch die Stoppuhr über die iCloud. Du kannst die Aufzeichnung auf einem Gerät starten und anschließend auf einem anderen weiterbearbeiten.
+
+Sobald du die Stoppuhr startest oder stoppst, erhalten deine anderen Geräte eine entsprechende Nachricht.
+
+![Shortworking]({{site.baseurl}}/assets/img/de/icloud-push.jpg)
+
+### Automatische Arbeitsplätze
+Um versehentliche Dopplebuchungen zu vermeiden, wurde die Konfuguration der automatischen Arbeitsplätzen erweitert. Du kannst nun für jeden Ort (über den kleinen Hacken rechts oben) entscheiden, ob das aktuelle Gerät diesen berücksichtigen soll oder nicht.
+
+### Umgang mit Dropbox und OneDrive
+Solltet du deine Daten bei aktiver iCloud-Synchronisation aus einem in Dropbox oder OneDrive gesicherten Backup wiederherstellen, werden deine zuvor in iCloud gespeicherten Daten ebenfalls durch diese überschrieben. (Dieser Vorgang kann eine Zeit lang dauern.)
+
+### Problembehandlung
+Sollten deine Daten nicht wie erwartet auf den Geräten synchron sein, prüfe bitte folgende Punkte
+
+- iCloud Account - Alle Geräte sind mit dem selben iCloud Account verknüpft und "iCloud Daten" ist aktiviert.
+- Mitteilungen - Stelle sicher, dass du in den iOS Einstellungen "Mitteilungen erlauben" für myWork akiviert hast.
+- myWork neu starten - Klingt banal, hilft aber oft. Es hat sich beim Test herausgestellt, dass die Datensynchronisierung wohl bei der Reaktivierung von myWork durch iOS angestoßen wird.
+- Internetverbindung - Je nach Internetverbindung kann es mehrere Minuten dauern bis die Daten synchronisiert wurden.
+- iCloud Daten überprüfen - Im Menü "iCloud Synchronisierung > Aktuell in iCloud geladene Daten" kannst du deine aktuellen iCLoud Daten anzeigen und bei Bedarf löschen.
+
+<sup>myWork hat leider keinen Einfluss darauf, wann deine Daten in die bzw. aus der iCloud geladen werden.</sup>

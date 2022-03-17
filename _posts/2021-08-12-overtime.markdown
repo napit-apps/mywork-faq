@@ -1,0 +1,19 @@
+---
+layout: post
+title: 'Berechnung der Überstunden'
+description: # Add post description (optional)
+img: de/ueberstunden-info.jpeg
+fig-caption: # Add figcaption (optional)
+
+---
+
+Die Berechning deiner Überstunden kann mit der Zeit recht komplex werden.
+
+Aus diesem Grund gibt es eine extra Seite, welche dir anhand deiner Werte Schritt für Schritt die Rechnung erklärt. Klicke dazu einfach auf das kleine i-Symbol.
+
+<b>Achtung:</b> Im Arbeitszeitmodell "Wochenstunden (gleichverteilt)" berechnet myWork deine Überstunden auf Basis von Kalenderwochen, der geplanten Sollstunden und der Anzahl deiner Arbeitstage pro Woche. Solltest du innerhalb der Woche (z.B. am Mittwoch) mit der Aufzeichnung begonnen haben, fehlen hier vermutlich Tage. Fülle diese fehlenden Tage einfach mit der Aktivität "Unbezahlter Platzhalter" aus um die Berechnung zu korrigieren.
+
+![Shortworking]({{site.baseurl}}/assets/img/de/ueberstunden-platzhalter.jpeg)
+
+
+

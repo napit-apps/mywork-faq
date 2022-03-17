@@ -1,0 +1,36 @@
+title: Hello, world! I'm myWork
+description: # this means to ignore newlines until "baseurl:"
+  Diese Seite sollte allen weiterhelfen, welche ihre Arbeitszeiterfassung optimieren und vereinfachen wollen.
+permalink: ':title/'
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+site-twitter: #if your site has a twitter account, enter it here
+
+# Author Settings
+author: myWork - Tipps & Tricks # add your name
+author-img: myWork.png # add your photo
+about-author: Hier findest du viele nützliche Tipps die dir das Leben leichter machen werden. <br />Gerne helfe ich dir auch persönlich weiter.
+#social-twitter: # add your Twitter handle
+#social-facebook: # add your Facebook handle
+#social-github: napit-apps # add your Github handle
+#social-linkedin: # add your Linkedin handle
+social-email: sage.hallo@marcelruss.de # add your Email address
+social-page: https://marcelruss.de
+
+# Disqus
+# discus-identifier: mr-brown # add your discus identifier
+
+# Tracker
+analytics: # Google Analytics
+
+# Build Settings
+markdown: kramdown
+plugins:
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jemoji
+
+paginate: 12
+paginate_path: "/page/:num"
+
+exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]

@@ -1,0 +1,27 @@
+---
+layout: post
+title: 'Das Zeiten-Tab'
+description: # Add post description (optional)
+img: de/activities_cell_interaction.gif
+fig-caption: # Add figcaption (optional)
+
+---
+
+Jetzt übersichtlicher und mit mehr Schnellfunktionen.
+
+### Schnelles Bearbeiten von Zeiten
+Deine erfasste Arbeitszeit kannst du im Tab "Zeiten" ab sofort in wenigen Schritten ganz einfach bearbeiten. Wische nach rechts, um eine Zeit zu buchen. Das erfolgreiche Buchen erkennst du am grünen Highlight unterhalb des Job-Icons. Das Wischen nach links löscht die erfasste Zeit. Der Eintrag wird so automatisch aus der Übersicht entfernt. Hältst du eine bereits erfasste Zeit lange gedrückt, dupliziert sich diese und das Datum passt sich inteligent an. So kannst du beispielsweise einen "Standard-Arbeitstag" auch ohne aktives Stoppen erfassen.
+
+![Shortworking]({{site.baseurl}}/assets/img/de/activities_filter.jpeg)
+
+### Intelligentes Filtern von Zeiten
+<b>Oben rechts findest du den Filter.</b> Beim initialen Öffnen sind deine aktiven Jobs bereits vorausgewählt. Das erkennst du an der orangenen Umrandung. <b>Alle weiteren (deaktivierten) Jobs werden beim Scrollen nach links sichtbar.</b> Zusätzlich hast du die Option innerhalb des/der ausgewählten Jobs zwischen allen, den ausstehenden oder gebuchten Zeiten zu wählen. Die Voreinstellung wählt immer alle Zeiten aus.
+<b>Die Zeitleiste ermöglicht dir das individuelle Anpassen des Zeitraumes.</b> Beim Anwählen der vorderfinerten Zeiträume ("Diese Woche", "Letzte Woche", etc.) passen sich Datum sowie alle dazugehörigen Einträge automatisch an. 
+Ein <b>Klick auf den Pfeil</b> neben dem Filter-Symbol versteckt den Filterbereich umd schafft Platz.
+
+![Shortworking]({{site.baseurl}}/assets/img/de/activities_footer.jpeg)
+
+### Arbeitszeit und Verdienst
+Deine erfasste Arbeitszeit und der daraus resultierenden Verdienst im Bereich unter der Tabelle, passen sich den von dir ausgewählten Filterkriterien an.
+
+<sup>Durch erneutes Klicken des Filtersymboles werden alle Filter zurückgesetzt.</sup>

@@ -2,8 +2,8 @@ title: Hello, world! I'm myWork
 description: # this means to ignore newlines until "baseurl:"
   Diese Seite sollte allen weiterhelfen, welche ihre Arbeitszeiterfassung optimieren und vereinfachen wollen.
 permalink: ':title/'
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "/mywork-faq" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/mywork-faq" # the subpath of your site, e.g. /blog
+url: "https://napit-apps.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
@@ -19,9 +19,6 @@ social-page: https://marcelruss.de
 
 # Disqus
 # discus-identifier: mr-brown # add your discus identifier
-
-# Tracker
-analytics: # Google Analytics
 
 # Build Settings
 markdown: kramdown

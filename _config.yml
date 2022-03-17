@@ -6,10 +6,10 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
-author: Marcel Russ # add your name
-author-img: myWork.png # add your photo
+author: Marcel Russ
+author-img: myWork.png 
 about-author: Hier findest du viele nützliche Tipps die dir das Leben leichter machen werden. <br />Gerne helfe ich dir auch persönlich weiter.
-social-email: sag.hallo@marcelruss.de # add your Email address
+social-email: sag.hallo@marcelruss.de 
 social-page: https://marcelruss.de
 
 # Disqus

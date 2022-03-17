@@ -6,7 +6,7 @@ url: https://github.com/napit-apps # the base hostname & protocol for your site,
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
-author: 'myWork - Tipps & Tricks' # add your name
+author: 'myWork - Tipps-Tricks' # add your name
 author-img: myWork.png # add your photo
 about-author: 'Hier findest du viele nützliche Tipps die dir das Leben leichter machen werden. <br />Gerne helfe ich dir auch persönlich weiter.'
 social-email: 'sag.hallo@marcelruss.de' # add your Email address
